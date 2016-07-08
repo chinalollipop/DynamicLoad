@@ -142,3 +142,7 @@ Android 动态加载框架，他不是用代理 Activity 的方式实现而是�
 Droid Plugin是360手机助手在2015年初研发的一个全新的基于Android平台的插件机制.
 2.android插件化及动态部署
 阿里技术沙龙第十六期《android插件化及动态部署》视频
+
+http://www.androidblog.cn/index.php/Index/detail/id/16#
+
+http://www.jianshu.com/p/353514d315a7?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq
